@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/301400/301403.3.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "playing_role": "Batsman",
+    "rating": 8.7,
+    "bating_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "475,000 USD"
+  },
+  {
+    "player_image": "https://i.dawn.com/primary/2022/08/62f8838e5fbb9.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 9.4,
+    "bating_style": "Left-handed",
+    "bowling_style": "Slow left-arm orthodox",
+    "price": "520,000 USD"
+  },
+  {
+    "player_image": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-01-25_at_07.52.26.webp?v=1706153552",
+    "player_name": "Chris Gayle",
+    "player_country": "West Indies",
+    "playing_role": "Batsman",
+    "rating": 9.1,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "490,000 USD"
+  },
+  {
+    "player_image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_50/lsci/db/PICTURES/CMS/383500/383539.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.9,
+    "bating_style": "Left-handed",
+    "bowling_style": "Left-arm medium-fast",
+    "price": "410,000 USD"
+  },
+  {
+    "player_image": "https://cf-images.ap-southeast-2.prod.boltdns.net/v1/static/807051129001/a61a5bc1-ccc2-45d4-bf1c-d9093aaffe31/dd868e39-626d-40c5-ab1e-5b82ef4a9adc/3029x1704/match/image.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "playing_role": "All-rounder",
+    "rating": 9.0,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm fast-medium",
+    "price": "550,000 USD"
+  },
+  {
+    "player_image": "https://www.tbsnews.net/sites/default/files/styles/big_2/public/images/2019/12/01/mash.jpg",
+    "player_name": "Mashrafe Mortaza",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.1,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "350,000 USD"
+  },
+  {
+    "player_image": "https://i.cdn.newsbytesapp.com/images/l16820221025132016.jpeg",
+    "player_name": "Kieron Pollard",
+    "player_country": "West Indies",
+    "playing_role": "All-rounder",
+    "rating": 8.6,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm medium-fast",
+    "price": "460,000 USD"
+  },
+  {
+    "player_image": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/E4D7/production/_131138585_gettyimages-1351717835.jpg",
+    "player_name": "Quinton de kock",
+    "player_country": "South Africa",
+    "playing_role": "Wicketkeeper-Batsman",
+    "rating": 8.8,
+    "bating_style": "Left-handed",
+    "bowling_style": "N/A",
+    "price": "430,000 USD"
+  },
+  {
+    "player_image": "https://c.ndtvimg.com/2024-06/8mvq5v38_rashid-khan_625x300_26_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "playing_role": "All-rounder",
+    "rating": 9.6,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm leg-break",
+    "price": "600,000 USD"
+  },
+  {
+    "player_image": "https://d16f573ilcot6q.cloudfront.net/wp-content/uploads/2024/07/2XB44P3.jpg",
+    "player_name": "Taskin Ahmed",
+    "player_country": "Bangladesh",
+    "playing_role": "Bowler",
+    "rating": 8.5,
+    "bating_style": "Left-handed",
+    "bowling_style": "Right-arm fast",
+    "price": "380,000 USD"
+  },
+  {
+    "player_image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_800,q_50/lsci/db/PICTURES/CMS/403300/403374.6.jpg",
+    "player_name": "Mehedi Hasan Miraz",
+    "player_country": "Bangladesh",
+    "playing_role": "All-rounder",
+    "rating": 8.3,
+    "bating_style": "Right-handed",
+    "bowling_style": "Right-arm off-break",
+    "price": "310,000 USD"
+  },
+  {
+    "player_image": "https://www.geosuper.tv/assets/uploads/updates/2025-08-28/48169_3403604_updates.jpg",
+    "player_name": "Litton Das",
+    "player_country": "Bangladesh",
+    "playing_role": "Wicketkeeper",
+    "rating": 8.4,
+    "bating_style": "Right-handed",
+    "bowling_style": "N/A",
+    "price": "390,000 USD"
+  }
+]
