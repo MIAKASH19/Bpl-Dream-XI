@@ -33,7 +33,7 @@ const PlayerCard = ({
 
   return (
     <div className="card bg-base-100 w-96 shadow-sm p-5">
-      <div className="rounded-lg bg-red-500 w-full h-[240px] overflow-hidden">
+      <div className="rounded-lg w-full h-[240px] overflow-hidden">
         <img
           src={player.player_image}
           alt="Shoes"
